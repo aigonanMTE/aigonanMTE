@@ -1,2 +1,2 @@
-뭉탱이 월드
+i use pyrhon , C# 
 
